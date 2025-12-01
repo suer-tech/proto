@@ -1,0 +1,12 @@
+*.log
+*.pid
+*.pyc
+.DS_Store
+.env
+.vite/
+__pycache__/
+backend/tests/
+backend/uploads/
+dist/
+node_modules/
+venv/

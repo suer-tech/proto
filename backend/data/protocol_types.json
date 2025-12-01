@@ -1,0 +1,44 @@
+{
+  "standard-meeting": {
+    "id": "standard-meeting",
+    "name": "Протокол совещания",
+    "description": "Стандартный протокол рабочего совещания",
+    "external_service_id": "PROTOCOL_001",
+    "assistant_id": "91dbaf1a5e934f1a7a9e7a84d8fdf1ec5e29ef79bd01bfae420692c8a602af97803505e9955ba26ace62b496263f2de61f654b8193272364af62ff114f0a1495"
+  },
+  "board-meeting": {
+    "id": "board-meeting", 
+    "name": "Протокол заседания совета директоров",
+    "description": "Протокол заседания совета директоров или правления",
+    "external_service_id": "PROTOCOL_002",
+    "assistant_id": "91dbaf1a5e934f1a7a9e7a84d8fdf1ec5e29ef79bd01bfae420692c8a602af97803505e9955ba26ace62b496263f2de61f654b8193272364af62ff114f0a1495"
+  },
+  "general-assembly": {
+    "id": "general-assembly",
+    "name": "Протокол общего собрания", 
+    "description": "Протокол общего собрания участников/акционеров",
+    "external_service_id": "PROTOCOL_003",
+    "assistant_id": "91dbaf1a5e934f1a7a9e7a84d8fdf1ec5e29ef79bd01bfae420692c8a602af97803505e9955ba26ace62b496263f2de61f654b8193272364af62ff114f0a1495"
+  },
+  "technical-meeting": {
+    "id": "technical-meeting",
+    "name": "Протокол технического совещания",
+    "description": "Протокол технического или проектного совещания", 
+    "external_service_id": "PROTOCOL_004",
+    "assistant_id": "91dbaf1a5e934f1a7a9e7a84d8fdf1ec5e29ef79bd01bfae420692c8a602af97803505e9955ba26ace62b496263f2de61f654b8193272364af62ff114f0a1495"
+  },
+  "audit-meeting": {
+    "id": "audit-meeting",
+    "name": "Протокол аудиторского совещания",
+    "description": "Протокол совещания с участием аудиторов",
+    "external_service_id": "PROTOCOL_005",
+    "assistant_id": "91dbaf1a5e934f1a7a9e7a84d8fdf1ec5e29ef79bd01bfae420692c8a602af97803505e9955ba26ace62b496263f2de61f654b8193272364af62ff114f0a1495"
+  },
+  "hr-meeting": {
+    "id": "hr-meeting",
+    "name": "Протокол HR совещания",
+    "description": "Протокол кадрового совещания",
+    "external_service_id": "PROTOCOL_006",
+    "assistant_id": "91dbaf1a5e934f1a7a9e7a84d8fdf1ec5e29ef79bd01bfae420692c8a602af97803505e9955ba26ace62b496263f2de61f654b8193272364af62ff114f0a1495"
+  }
+}
